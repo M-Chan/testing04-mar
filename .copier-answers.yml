@@ -1,0 +1,16 @@
+# Changes here will be overwritten by Copier
+_commit: 2.0.1
+_src_path: https://github.com/DiamondLightSource/python-copier-template
+author_email: man.chan@diamond.ac.uk
+author_name: Man Ting Chan
+component_owner: user:default/kqd14687
+description: test demo
+distribution_name: testing04-mar
+docker: true
+docs_type: README
+git_platform: github.com
+github_org: M-Chan
+package_name: testing04_mar
+pypi: false
+repo_name: testing04-mar
+type_checker: pyright

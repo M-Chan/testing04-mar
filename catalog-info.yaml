@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: testing04-mar
+  title: testing04-mar
+  description: test demo
+spec:
+  type: documentation
+  lifecycle: experimental
+  owner: user:default/kqd14687
